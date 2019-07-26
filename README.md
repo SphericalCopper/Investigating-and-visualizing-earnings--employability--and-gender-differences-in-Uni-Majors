@@ -1,6 +1,6 @@
 # Investigating and visualizing earnings, employability, and gender differences between Uni Majors.
 
-Employment Rates and mean salaries associated with various college majors in US Universities were analyzed to understand the relationship between those factors and each major. Additionally, some secondary analysis on gender proportion changes over the year for some majors was also visualized. 
+Employment Rates and median salaries associated with various college majors in US Universities were analyzed to understand the relationship between those factors and each major. Additionally, some secondary analysis on gender proportion changes over the year for some majors was also visualized. 
 
 ## 1) [Investigating earnings by Major](https://github.com/SphericalCopper/Investigating-and-visualizing-earnings-employability-and-gender-differences-in-Uni-Majors/blob/master/Investigating%20Earnings%20by%20College%20Major.ipynb)
 
